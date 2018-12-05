@@ -1,3 +1,7 @@
-console.log(a);
+function fn(a,b){
+    console.log(a+b);
 
-var a = 10;
+};
+
+fn(2,5);
+
